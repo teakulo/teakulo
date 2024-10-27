@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-🛠️ Tech Stack
-Frontend: Angular, React Native, HTML, CSS, TypeScript
-Backend: Spring Boot, Flask, Python, Java
-Database: PostgreSQL
-AI/NLP: SpaCy, word2vec, lemmatization
 
 <!--
 **teakulo/teakulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
